@@ -1,0 +1,7 @@
+# Ignore everthing
+*
+
+# Unignore java and text files
+!*.java
+!*.txt
+!.gitignore

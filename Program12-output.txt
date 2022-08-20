@@ -1,0 +1,80 @@
+C:\Java\jdk1.8.0_301\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2021.2\lib\idea_rt.jar=19684:C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2021.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Java\jdk1.8.0_301\jre\lib\charsets.jar;C:\Java\jdk1.8.0_301\jre\lib\deploy.jar;C:\Java\jdk1.8.0_301\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_301\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_301\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_301\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_301\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_301\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_301\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_301\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_301\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_301\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_301\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_301\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_301\jre\lib\javaws.jar;C:\Java\jdk1.8.0_301\jre\lib\jce.jar;C:\Java\jdk1.8.0_301\jre\lib\jfr.jar;C:\Java\jdk1.8.0_301\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_301\jre\lib\jsse.jar;C:\Java\jdk1.8.0_301\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_301\jre\lib\plugin.jar;C:\Java\jdk1.8.0_301\jre\lib\resources.jar;C:\Java\jdk1.8.0_301\jre\lib\rt.jar;C:\Users\joekc\IdeaProjects\JavaProjects\out\production\JavaProjects HourlyEmployeeTest
+Name:    Joe Cooper
+Course:  ITSE 2321 Object-Oriented Programming
+Program: Twelve
+
+Enter your name (First Last): 
+John Doe
+Enter your hourly rate: 
+50.10
+Enter hours worked for week 1: 40
+Enter hours worked for week 2: 30
+Enter hours worked for week 3: 40
+Enter hours worked for week 4: 35
+
+Employee: John Doe
+Pay rate: 50.10
+
+Regular Hours:         145.00
+Overtime Hours           0.00
+Total Hours            145.00
+
+Regular Pay:          7264.50
+Overtime amount:         0.00
+Monthly Gross Pay:    7264.50
+Taxes:                1598.19
+Monthly net pay:      5666.31
+
+
+Do you want to run the program again <yes/no>? yes
+Enter your name (First Last): 
+Jane Doe
+Enter your hourly rate: 
+55.20
+Enter hours worked for week 1: 40
+Enter hours worked for week 2: 40
+Enter hours worked for week 3: 40
+Enter hours worked for week 4: 40
+
+Employee: Jane Doe
+Pay rate: 55.20
+
+Regular Hours:         160.00
+Overtime Hours           0.00
+Total Hours            160.00
+
+Regular Pay:          8832.00
+Overtime amount:         0.00
+Monthly Gross Pay:    8832.00
+Taxes:                2472.96
+Monthly net pay:      6359.04
+
+
+Do you want to run the program again <yes/no>? yes
+Enter your name (First Last): 
+Joe Cooper
+Enter your hourly rate: 
+75.50
+Enter hours worked for week 1: 50
+Enter hours worked for week 2: 35
+Enter hours worked for week 3: 40
+Enter hours worked for week 4: 55
+
+Employee: Joe Cooper
+Pay rate: 75.50
+
+Regular Hours:         155.00
+Overtime Hours          25.00
+Total Hours            180.00
+
+Regular Pay:         11702.50
+Overtime amount:      2831.25
+Monthly Gross Pay:   14533.75
+Taxes:                4505.46
+Monthly net pay:     10028.29
+
+
+Do you want to run the program again <yes/no>? no
+Thanks for using this program.
+
+Process finished with exit code 0
